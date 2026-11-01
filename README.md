@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NASHG80
 - 👀 I’m interested in coding,research and learning
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently into AIML
 - 💞️ I’m looking to collaborate on projects
 - 📫 Reach me by email:gonsalvesnash80@gmail.com
 - ⚡ Eat Sleep Code!
